@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-29T19:48:55.544Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="KBs2My2NGyIAHGjr9FyS" version="21.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-29T20:16:45.546Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="GTo386tRKGz6V0hOTDFZ" version="21.1.2" type="github">
   <diagram name="Page-1" id="2RfUBt3pwpagDlwvuFOj">
-    <mxGraphModel dx="1593" dy="1940" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1366" dy="1820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -41,6 +41,9 @@
         </mxCell>
         <mxCell id="5L868VNpYR84aTYLt7mF-8" value="portfolio&amp;nbsp;&lt;br&gt;service" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="610" y="465" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5L868VNpYR84aTYLt7mF-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="5L868VNpYR84aTYLt7mF-9" target="5L868VNpYR84aTYLt7mF-56">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5L868VNpYR84aTYLt7mF-9" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="1140" y="420" width="60" height="80" as="geometry" />
@@ -93,7 +96,7 @@
           <mxGeometry x="370" y="185" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5L868VNpYR84aTYLt7mF-27" value="&lt;div style=&quot;color: rgb(212, 212, 212); background-color: rgb(30, 30, 30); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 18px;&quot;&gt;&lt;div&gt;this.art1  = {&lt;/div&gt;&lt;div&gt;    image:&lt;span style=&quot;color: #ce9178;&quot;&gt;&quot;assets/image/art-1.png&quot;&lt;/span&gt;,&lt;/div&gt;&lt;div&gt;    title:&lt;span style=&quot;color: #ce9178;&quot;&gt;&quot;Mary and Anthony&quot;&lt;/span&gt;,&lt;/div&gt;&lt;div&gt;    price:&lt;span style=&quot;color: #569cd6;&quot;&gt;this&lt;/span&gt;.priceInput, &lt;span style=&quot;color: #6a9955;&quot;&gt;//29.99&lt;/span&gt;&lt;/div&gt;&lt;div&gt;    curreny:&lt;span style=&quot;color: #ce9178;&quot;&gt;&quot;USD&quot;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;   };&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="870" y="-10" width="270" height="150" as="geometry" />
+          <mxGeometry x="1110" y="110" width="270" height="150" as="geometry" />
         </mxCell>
         <mxCell id="5L868VNpYR84aTYLt7mF-31" value="data binding&lt;br&gt;{{}}" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="350" y="570" width="120" height="30" as="geometry" />
@@ -147,6 +150,12 @@
         </mxCell>
         <mxCell id="5L868VNpYR84aTYLt7mF-54" value="child comp recives data via@Input" style="text;html=1;strokeColor=#36393d;fillColor=#ffcccc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="350" y="110" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5L868VNpYR84aTYLt7mF-55" value="&lt;div style=&quot;color: rgb(212, 212, 212); background-color: rgb(30, 30, 30); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 18px;&quot;&gt;&lt;div&gt;this.art1  = {&lt;/div&gt;&lt;div&gt;    image:&lt;span style=&quot;color: #ce9178;&quot;&gt;&quot;assets/image/art-1.png&quot;&lt;/span&gt;,&lt;/div&gt;&lt;div&gt;    title:&lt;span style=&quot;color: #ce9178;&quot;&gt;&quot;Mary and Anthony&quot;&lt;/span&gt;,&lt;/div&gt;&lt;div&gt;    price:&lt;span style=&quot;color: #569cd6;&quot;&gt;this&lt;/span&gt;.priceInput, &lt;span style=&quot;color: #6a9955;&quot;&gt;//29.99&lt;/span&gt;&lt;/div&gt;&lt;div&gt;    curreny:&lt;span style=&quot;color: #ce9178;&quot;&gt;&quot;USD&quot;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;   };&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="-10" width="270" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="5L868VNpYR84aTYLt7mF-56" value="&lt;div style=&quot;color: rgb(212, 212, 212); background-color: rgb(30, 30, 30); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 18px;&quot;&gt;&lt;div&gt;this.art1  = {&lt;/div&gt;&lt;div&gt;    image:&lt;span style=&quot;color: #ce9178;&quot;&gt;&quot;assets/image/art-1.png&quot;&lt;/span&gt;,&lt;/div&gt;&lt;div&gt;    title:&lt;span style=&quot;color: #ce9178;&quot;&gt;&quot;Mary and Anthony&quot;&lt;/span&gt;,&lt;/div&gt;&lt;div&gt;    price:&lt;span style=&quot;color: #569cd6;&quot;&gt;this&lt;/span&gt;.priceInput, &lt;span style=&quot;color: #6a9955;&quot;&gt;//29.99&lt;/span&gt;&lt;/div&gt;&lt;div&gt;    curreny:&lt;span style=&quot;color: #ce9178;&quot;&gt;&quot;USD&quot;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;   };&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="230" width="270" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
