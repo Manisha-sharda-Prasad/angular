@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-29T20:47:55.251Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="MZbK0UCQ7ueWbQ9Wn2a-" version="21.1.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-03-29T20:48:38.983Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="e7bAKt3KuzgSoeeA0G1O" version="21.1.2" type="github" pages="2">
   <diagram name="Main" id="2RfUBt3pwpagDlwvuFOj">
     <mxGraphModel dx="1434" dy="1822" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -169,7 +169,7 @@
         <mxCell id="pF9vPpSLCvGENIWPTR94-3" value="C" style="text;html=1;strokeColor=#001DBC;fillColor=#0050ef;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="555" y="420" width="30" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="pF9vPpSLCvGENIWPTR94-4" value="&lt;font color=&quot;#3333ff&quot;&gt;write your into multiple class and export class. other class will import + &lt;b&gt;inject&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="pF9vPpSLCvGENIWPTR94-4" value="&lt;font color=&quot;#3333ff&quot;&gt;write your into multiple class and export class. &lt;br&gt;Other classes will import + &lt;b&gt;inject&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="400" y="680" width="180" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pF9vPpSLCvGENIWPTR94-5" value="" style="image;html=1;image=img/lib/clip_art/general/Star_128x128.png" vertex="1" parent="1">
